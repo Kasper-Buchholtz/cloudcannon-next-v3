@@ -1,50 +1,50 @@
 {
-	"items": [
-		{
-			"title": "Klog Energi",
-			"date": "",
-			"realPrice": "1000",
-			"clientPrice": "500",
-			"cms": "Wordpress",
-			"liveLink": "",
-			"designLink": ""
-		},
-		{
-			"title": "Vesterskov",
-			"date": null,
-			"realPrice": "",
-			"clientPrice": "30400",
-			"cms": "Wordpress",
-			"liveLink": "",
-			"designLink": ""
-		},
-		{
-			"title": "Krolf Storådalen Holstebro",
-			"date": "",
-			"realPrice": "13.913",
-			"clientPrice": "8.000",
-			"cms": "WOrdpress",
-			"liveLink": "",
-			"designLink": ""
-		},
-		{
-			"title": "Holstebro Sommerspil",
-			"date": "",
-			"realPrice": "19.163",
-			"clientPrice": "12.000",
-			"cms": "Wordpress",
-			"liveLink": "",
-			"designLink": ""
-		},
-		{
-			"title": "Holstebro Flytte- og Budcentral",
-			"date": "",
-			"realPrice": "",
-			"clientPrice": "54.900",
-			"cms": "Wordpress",
-			"liveLink": "",
-			"designLink": ""
-		},
+    "items": [
+        {
+            "title": "Klog Energi",
+            "date": "",
+            "realPrice": "1000",
+            "clientPrice": "500",
+            "cms": "Wordpress",
+            "liveLink": "",
+            "designLink": ""
+        },
+        {
+            "title": "Vesterskov",
+            "date": null,
+            "realPrice": "",
+            "clientPrice": "30400",
+            "cms": "Wordpress",
+            "liveLink": "",
+            "designLink": ""
+        },
+        {
+            "title": "Krolf Storådalen Holstebro",
+            "date": null,
+            "realPrice": "13.913",
+            "clientPrice": "8.000",
+            "cms": "Wordpress",
+            "liveLink": "",
+            "designLink": ""
+        },
+        {
+            "title": "Holstebro Sommerspil",
+            "date": "",
+            "realPrice": "19.163",
+            "clientPrice": "12.000",
+            "cms": "Wordpress",
+            "liveLink": "",
+            "designLink": ""
+        },
+        {
+            "title": "Holstebro Flytte- og Budcentral",
+            "date": "",
+            "realPrice": "",
+            "clientPrice": "54.900",
+            "cms": "Wordpress",
+            "liveLink": "",
+            "designLink": ""
+        },
         {
             "title": "EUC Nordvest – Find Din Fremtid (kampagnesite)",
             "date": "",
@@ -142,10 +142,10 @@
             "clientPrice": "54.900",
             "cms": "Wordpress",
             "liveLink": "https://lyklig.dk/",
-            "designLink": ""        
+            "designLink": ""
         },
         {
-            "title" : "Struer Museum",
+            "title": "Struer Museum",
             "date": "",
             "realPrice": "54.900",
             "clientPrice": "54.900",
@@ -172,14 +172,13 @@
             "designLink": ""
         },
         {
-            "title" : "Fodslaw",
+            "title": "Fodslaw",
             "date": "",
             "realPrice": "54.900",
             "clientPrice": "54.900",
             "cms": "Wordpress",
             "liveLink": "https://fodslaw.dk/",
             "designLink": ""
-
         }
-	]	
+    ]
 }
