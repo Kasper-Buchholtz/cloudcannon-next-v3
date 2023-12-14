@@ -1,5 +1,4 @@
 {
-	"logo": "/images/logo.svg",
 	"items": [
 		{
 			"title": "Klog Energi",
@@ -182,14 +181,5 @@
             "designLink": ""
 
         }
-	],
-
-
-    
-	
-	"_inputs": {
-		"logo": {
-			"type": "image"
-		}
-	}
+	]	
 }
