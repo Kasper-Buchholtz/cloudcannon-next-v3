@@ -1,16 +1,17 @@
 ---
+_schema: default
 title: Contact
 seo:
-  page_description: 
-  canonical_url: 
-  featured_image: 
-  author_twitter_handle: 
+  page_description:
+  canonical_url:
+  featured_image:
+  author_twitter_handle:
   open_graph_type:
   no_index: false
 content_blocks:
   - _bookshop_name: contact/hero
     title: Let's talk.
-    description: Have a question or suggestion? Feel free to drop us a message!
+    description: Have a question or suggestion? Feel free to drop us a message! b
   - _bookshop_name: contact/form
     address:
       heading: Office Address
