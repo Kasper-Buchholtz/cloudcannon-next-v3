@@ -1,24 +1,22 @@
 {
 	"logo": "/images/logo.svg",
 	"items": [
-		{
-			"title": "Klog Energi",
-			"date": "",
-           
-                "color": "Red",
-                "ssg": "jekyll",
-                "_select_data": {
-                  "colors": [
-                    "Red",
-                    "Blue"
-                  ],
-                  "ssgs": {
-                    "jekyll": "Jekyll",
-                    "hugo": "Hugo",
-                    "11ty": "Eleventy"
-                  }
-                }
-		}
+        {
+            "color": "Red",
+            "ssg": "jekyll",
+            "_select_data": {
+              "colors": [
+                "Red",
+                "Blue"
+              ],
+              "ssgs": {
+                "jekyll": "Jekyll",
+                "hugo": "Hugo",
+                "11ty": "Eleventy"
+              }
+            }
+          }
+          
 	],
 	"button": {
 		"link": "/signup/",
