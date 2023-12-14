@@ -4,22 +4,20 @@
 		{
 			"title": "Klog Energi",
 			"date": "",
-            "cms": "Wordpress",
-            "projectLeader": "martin",
-            "_select_data": {
-                "cms": [
-                  "Wordpress",
-                  "Shopify"
-                ],
-                "projectLeader": {
-                  "martin": "Martin Kongsgaard Bæk",
-                  "per": "Per Tornvig",
-                  "AnneBT": "Anne Bjørndahl Toft",
-                  "AnneSB": "Anne Sofie Bak",
-                  "frederik": "Frederik Toft Mikkelsen"
+           
+                "color": "Red",
+                "ssg": "jekyll",
+                "_select_data": {
+                  "colors": [
+                    "Red",
+                    "Blue"
+                  ],
+                  "ssgs": {
+                    "jekyll": "Jekyll",
+                    "hugo": "Hugo",
+                    "11ty": "Eleventy"
+                  }
                 }
-            }      
-			
 		}
 	],
 	"button": {
