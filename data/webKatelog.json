@@ -4,12 +4,19 @@
 		{
 			"title": "Klog Energi",
 			"date": "",
-            "projektLeder" : "Mads",
-            "realPrice": "1000",
-            "clientPrice": "500",
-            "cms": "Wordpress",
-            
-            "colors": [
+			"realPrice": "1000",
+			"clientPrice": "500",
+			"cms": "Wordpress",
+			"liveLink": "https://klogenergi.dk/",
+			"designLink": "https://www.figma.com/proto/SodznpklTyUCSbLRWJTm69/Website?page-id=6%3A181&type=design&node-id=32-101&viewport=433%2C274%2C0.14&t=8n9ArsxHotI22NBy-8&scaling=scale-down-width&hotspot-hints=0&hide-ui=1"
+		},
+		{
+			"title": "Vesterskov",
+			"date": null,
+			"realPrice": "",
+			"clientPrice": "30400",
+			"cms": "Wordpress",
+                     "colors": [
                 "Red"
               ],
               "ssgs": [
@@ -26,20 +33,99 @@
                   "hugo": "Hugo",
                   "11ty": "Eleventy"
                 }
-              },            
-            
-            "liveLink": "https://klogenergi.dk/",
-            "designLink": "https://www.figma.com/proto/SodznpklTyUCSbLRWJTm69/Website?page-id=6%3A181&type=design&node-id=32-101&viewport=433%2C274%2C0.14&t=8n9ArsxHotI22NBy-8&scaling=scale-down-width&hotspot-hints=0&hide-ui=1"
+              },  
+			"liveLink": "",
+			"designLink": ""
+		},
+		{
+			"title": "Krolf Storådalen Holstebro",
+			"date": "2023-12-14T10:16:06.054Z",
+			"realPrice": "13.913",
+			"clientPrice": "8.000",
+			"cms": "WOrdpress",
+                     "colors": [
+                "Red"
+              ],
+              "ssgs": [
+                "hugo",
+                "11ty"
+              ],
+              "_select_data": {
+                "colors": [
+                  "Red",
+                  "Blue"
+                ],
+                "ssgs": {
+                  "jekyll": "Jekyll",
+                  "hugo": "Hugo",
+                  "11ty": "Eleventy"
+                }
+              },  
+			"liveLink": "",
+			"designLink": ""
+		},
+		{
+			"title": "Holstebro Sommerspil",
+			"date": "2023-12-14T10:16:36.093Z",
+			"realPrice": "19.163",
+			"clientPrice": "12.000",
+			"cms": "Wordpress",
+                     "colors": [
+                "Red"
+              ],
+              "ssgs": [
+                "hugo",
+                "11ty"
+              ],
+              "_select_data": {
+                "colors": [
+                  "Red",
+                  "Blue"
+                ],
+                "ssgs": {
+                  "jekyll": "Jekyll",
+                  "hugo": "Hugo",
+                  "11ty": "Eleventy"
+                }
+              },  
+			"liveLink": "",
+			"designLink": ""
+		},
+		{
+			"title": "Holstebro Flytte- og Budcentral",
+			"date": "2023-12-14T10:16:55.738Z",
+			"realPrice": "",
+			"clientPrice": "54.900",
+			"cms": "Wordpress",
+                     "colors": [
+                "Red"
+              ],
+              "ssgs": [
+                "hugo",
+                "11ty"
+              ],
+              "_select_data": {
+                "colors": [
+                  "Red",
+                  "Blue"
+                ],
+                "ssgs": {
+                  "jekyll": "Jekyll",
+                  "hugo": "Hugo",
+                  "11ty": "Eleventy"
+                }
+              },  
+			"liveLink": "",
+			"designLink": ""
 		}
-		
 	],
 	"button": {
 		"link": "/signup/",
 		"text": "Get Started"
 	},
 	"_inputs": {
-	  "logo": {
-		"type": "image"
-	  }
+		"logo": {
+			"type": "image"
+		}
 	}
 }
