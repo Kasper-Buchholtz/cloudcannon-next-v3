@@ -4,9 +4,30 @@
 		{
 			"title": "Klog Energi",
 			"date": "",
+            "projektLeder" : "Mads",
             "realPrice": "1000",
             "clientPrice": "500",
             "cms": "Wordpress",
+            
+            "colors": [
+                "Red"
+              ],
+              "ssgs": [
+                "hugo",
+                "11ty"
+              ],
+              "_select_data": {
+                "colors": [
+                  "Red",
+                  "Blue"
+                ],
+                "ssgs": {
+                  "jekyll": "Jekyll",
+                  "hugo": "Hugo",
+                  "11ty": "Eleventy"
+                }
+              },            
+            
             "liveLink": "https://klogenergi.dk/",
             "designLink": "https://www.figma.com/proto/SodznpklTyUCSbLRWJTm69/Website?page-id=6%3A181&type=design&node-id=32-101&viewport=433%2C274%2C0.14&t=8n9ArsxHotI22NBy-8&scaling=scale-down-width&hotspot-hints=0&hide-ui=1"
 		}
