@@ -1,27 +1,192 @@
 {
 	"logo": "/images/logo.svg",
 	"items": [
+		{
+			"title": "Klog Energi",
+			"date": "",
+			"realPrice": "1000",
+			"clientPrice": "500",
+			"cms": "Wordpress",
+			"liveLink": "",
+			"designLink": ""
+		},
+		{
+			"title": "Vesterskov",
+			"date": null,
+			"realPrice": "",
+			"clientPrice": "30400",
+			"cms": "Wordpress",
+			"liveLink": "",
+			"designLink": ""
+		},
+		{
+			"title": "Krolf Storådalen Holstebro",
+			"date": "",
+			"realPrice": "13.913",
+			"clientPrice": "8.000",
+			"cms": "WOrdpress",
+			"liveLink": "",
+			"designLink": ""
+		},
+		{
+			"title": "Holstebro Sommerspil",
+			"date": "",
+			"realPrice": "19.163",
+			"clientPrice": "12.000",
+			"cms": "Wordpress",
+			"liveLink": "",
+			"designLink": ""
+		},
+		{
+			"title": "Holstebro Flytte- og Budcentral",
+			"date": "",
+			"realPrice": "",
+			"clientPrice": "54.900",
+			"cms": "Wordpress",
+			"liveLink": "",
+			"designLink": ""
+		},
         {
-            "color": "Red",
-            "ssg": "jekyll",
-            "_select_data": {
-              "colors": [
-                "Red",
-                "Blue"
-              ],
-              "ssgs": {
-                "jekyll": "Jekyll",
-                "hugo": "Hugo",
-                "11ty": "Eleventy"
-              }
-            }
-          }
-          
+            "title": "EUC Nordvest – Find Din Fremtid (kampagnesite)",
+            "date": "",
+            "realPrice": "",
+            "clientPrice": "54.900",
+            "cms": "Wordpress",
+            "liveLink": "",
+            "designLink": ""
+        },
+        {
+            "title": "Glaspartner",
+            "date": "",
+            "realPrice": "",
+            "clientPrice": "54.900",
+            "cms": "Wordpress",
+            "liveLink": "",
+            "designLink": ""
+        },
+        {
+            "title": "Emma-Line",
+            "date": "",
+            "realPrice": "",
+            "clientPrice": "54.900",
+            "cms": "Wordpress",
+            "liveLink": "",
+            "designLink": ""
+        },
+        {
+            "title": "Holstebro-Alstrup Friplejehjem",
+            "date": "",
+            "realPrice": "",
+            "clientPrice": "54.900",
+            "cms": "Wordpress",
+            "liveLink": "",
+            "designLink": ""
+        },
+        {
+            "title": "Uddannelsescenter Holstebro",
+            "date": "",
+            "realPrice": "",
+            "clientPrice": "54.900",
+            "cms": "Wordpress",
+            "liveLink": "",
+            "designLink": ""
+        },
+        {
+            "title": "Åhuset Skive ",
+            "date": "",
+            "realPrice": "",
+            "clientPrice": "54.900",
+            "cms": "Wordpress",
+            "liveLink": "",
+            "designLink": ""
+        },
+        {
+            "title": "Roxy Malt Holstebro",
+            "date": "",
+            "realPrice": "",
+            "clientPrice": "54.900",
+            "cms": "Wordpress",
+            "liveLink": "",
+            "designLink": ""
+        },
+        {
+            "title": "Samsø Efterskole",
+            "date": "",
+            "realPrice": "",
+            "clientPrice": "54.900",
+            "cms": "Wordpress",
+            "liveLink": "",
+            "designLink": ""
+        },
+        {
+            "title": "Operaen i midten",
+            "date": "",
+            "realPrice": "",
+            "clientPrice": "54.900",
+            "cms": "Wordpress",
+            "liveLink": "https://operaenimidten.dk/",
+            "designLink": ""
+        },
+        {
+            "title": "Stævnen",
+            "date": "",
+            "realPrice": "54.900",
+            "clientPrice": "54.900",
+            "cms": "Wordpress",
+            "liveLink": "https://staevnen.dk/",
+            "designLink": ""
+        },
+        {
+            "title": "lyklig",
+            "date": "",
+            "realPrice": "54.900",
+            "clientPrice": "54.900",
+            "cms": "Wordpress",
+            "liveLink": "https://lyklig.dk/",
+            "designLink": ""        
+        },
+        {
+            "title" : "Struer Museum",
+            "date": "",
+            "realPrice": "54.900",
+            "clientPrice": "54.900",
+            "cms": "Wordpress",
+            "liveLink": "https://struermuseum.dk/",
+            "designLink": ""
+        },
+        {
+            "title": "Sygehusgrunden",
+            "date": "",
+            "realPrice": "54.900",
+            "clientPrice": "54.900",
+            "cms": "Wordpress",
+            "liveLink": "https://sygehusgrunden.dk/",
+            "designLink": ""
+        },
+        {
+            "title": "Tina Lykkegaard",
+            "date": "",
+            "realPrice": "54.900",
+            "clientPrice": "54.900",
+            "cms": "Wordpress",
+            "liveLink": "https://tinalykkegaard.dk/",
+            "designLink": ""
+        },
+        {
+            "title" : "Fodslaw",
+            "date": "",
+            "realPrice": "54.900",
+            "clientPrice": "54.900",
+            "cms": "Wordpress",
+            "liveLink": "https://fodslaw.dk/",
+            "designLink": ""
+
+        }
 	],
-	"button": {
-		"link": "/signup/",
-		"text": "Get Started"
-	},
+
+
+    
+	
 	"_inputs": {
 		"logo": {
 			"type": "image"
