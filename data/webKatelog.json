@@ -4,6 +4,8 @@
 		{
 			"title": "Klog Energi",
 			"date": "",
+            "cms": "Wordpress",
+            "projectLeader": "martin",
             "_select_data": {
                 "cms": [
                   "Wordpress",
