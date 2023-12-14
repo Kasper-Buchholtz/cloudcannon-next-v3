@@ -2,29 +2,15 @@
 	"logo": "/images/logo.svg",
 	"items": [
 		{
-			"link": "/",
-			"text": "Home"
-		},
-		{
-			"link": "/features/",
-			"text": "Features"
-		},
-		{
-			"link": "/pricing/",
-			"text": "Pricing"
-		},
-		{
-			"link": "/about/",
-			"text": "About"
-		},
-		{
-			"link": "/blog/",
-			"text": "Blog"
-		},
-		{
-			"link": "/contact/",
-			"text": "Contact"
+			"title": "Klog Energi",
+			"date": "27/10/2023",
+            "realPrice": "1000",
+            "clientPrice": "500",
+            "cms": "Wordpress",
+            "liveLink": "https://klogenergi.dk/",
+            "designLink": "https://www.figma.com/proto/SodznpklTyUCSbLRWJTm69/Website?page-id=6%3A181&type=design&node-id=32-101&viewport=433%2C274%2C0.14&t=8n9ArsxHotI22NBy-8&scaling=scale-down-width&hotspot-hints=0&hide-ui=1"
 		}
+		
 	],
 	"button": {
 		"link": "/signup/",
