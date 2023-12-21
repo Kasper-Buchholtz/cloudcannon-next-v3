@@ -26,7 +26,7 @@ export default function Navigation({ children, page }) {
 
     return (
         <>
-            <header>
+            <header className=''>
                 <nav className={`navbar navbar-expand-lg position-fixed w-100 zindex-dropdown${isSticky ? " sticky-nav" : ""}`} id="mainnavigationBar">
                     <div className="container-fluid">
                         <Link className="navbar-brand" href="/">
